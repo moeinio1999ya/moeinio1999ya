@@ -4,7 +4,7 @@
 body{
     background-color: brown;
 }
-        .container{
+    .container{
     background-color: cornflowerblue;
     width: 500px;
     height: 500px;
@@ -13,7 +13,7 @@ body{
 }
 .box{
     background-color: rgb(237, 86, 5, .5);
-    font-size: 20px;
+    font-size: 30px;
     margin: 10px;
     width: 50px;
     float: left;
